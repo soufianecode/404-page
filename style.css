@@ -3,3 +3,8 @@ body{
     background-image: url("https://webneel.com/wallpaper/sites/default/files/images/08-2014/2-black-wallpaper-pattern.jpg");
 
 }
+
+h1{
+    text-align: center;
+    font-size: 35px;
+}
