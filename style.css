@@ -3,6 +3,6 @@ body{
     background-image: url("https://webneel.com/wallpaper/sites/default/files/images/08-2014/2-black-wallpaper-pattern.jpg");
 
 }
-h1,h3,p{
+.h1{
     color: white;
 }
